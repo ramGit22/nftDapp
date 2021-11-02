@@ -1,4 +1,4 @@
-Vision Punk - nft minting dapp
+Vision Punk - nft minting dapp.
 Our website: visionpunk.xyz
 
 
